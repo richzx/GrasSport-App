@@ -7,7 +7,7 @@ function Hero() {
     <main id='home' className='flex mt-10 w-full sm:justify-center sm:items-center'>
       <section className='flex items-center flex-col-reverse gap-5 sm:flex-row sm:max-w-xl sm:justify-center sm:items-center md:max-w-2xl md:gap-7 lg:max-w-3xl lg:gap-12 xl:max-w-4xl xl:gap-16'>
         <section className=' flex flex-col items-center gap-4'>
-          <div className='flex flex-col gap-2'>
+          <div className='flex flex-col gap-2 px-4'>
             <h1 className='text-[1.3rem] text-w06 text-center lg:text-[1.5rem]'>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h1>
             <p className='text-[0.98rem] text-app10 text-center lg:text-[1rem]'>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi unde suscipit quam porro? Pariatur, ipsum. Enim aliquam nisi cum doloribus. ipsum. Enim aliquam nisi cum doloribus ipsum. Enim aliquam nisi cum doloribus!</p>
           </div>
