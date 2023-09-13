@@ -18,10 +18,6 @@ export default {
       fontFamily: {
         "inder": "'Inder'"
       },
-      screens: {
-        "s1": "600px",
-        "s2": "501px",
-      },
     },
   },
   plugins: [],
